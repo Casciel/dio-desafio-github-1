@@ -1,0 +1,5 @@
+Intro ao git
+git status //Para atualizar se algo foi alterado
+git add . //Para atualizar todos os arquivos
+git commit -m "//Descrição do commit"
+git push //Para Mandar enviar todos os commits para o servidor do GitHub
